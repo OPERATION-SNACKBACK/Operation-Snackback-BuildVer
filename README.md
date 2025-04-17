@@ -1,3 +1,3 @@
 # Solomon-s-Secret
-Work in progress build for Solomon's Secret.
+Work in progress build for Operation Snackback.
 Add basic installation instructions here.
