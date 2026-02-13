@@ -1,1 +1,9 @@
-# Keyboard scheme here
+# Keyboard controls:
+
+Walk = wasd
+
+jump = spacebar
+
+PauseMenu = escape 
+
+Sprint = shift + wasd 
