@@ -7,3 +7,14 @@ jump = spacebar
 PauseMenu = escape 
 
 Sprint = shift + wasd 
+
+
+# Controller Controls:
+
+walk = left joystick
+
+jump = buttom right button(various for controller type can be labled X or A)
+
+PauseMenu = Work in progress
+
+Sprint = Work in progress
