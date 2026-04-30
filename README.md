@@ -6,8 +6,8 @@ To install beta builds. Download the raw zip file titled "Build_Test5" then extr
 
 *Notice* 
 
-The current build has smei-funtional controller support(only usable while in game not in menu). Actions that can be used by the controller can be found in the Controls file. 
+The current build has smei-funtional controller support(only usable while in game, not in menu). Actions that can be used by the controller can be found in the Controls file. 
 
-There are NPCs all around the campus, they will soon be able to display information when interacted with but for now that are just there.
+There are NPCs all around the campus; they will soon be able to display information when interacted with, but for now, they are just there.
 
-New functioning credits section, avaliable by clicking the credits button in the start menu. You can click the X button to go back to the start menu while in the credits.
+New functioning credits section, available by clicking the credits button in the start menu. You can click the X button to go back to the start menu while in the credits.
